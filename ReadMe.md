@@ -22,7 +22,7 @@ pip install selenium
 
 pip install webdriver_manager
 
-pip isntall pandas
+pip install pandas
 
 pip install loging
 
