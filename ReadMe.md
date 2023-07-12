@@ -5,12 +5,12 @@ Prerequisites
 In order to run the python script, your system must have the following programs/packages installed.
 
 Chrome : https://www.google.com/chrome/
+
 Python : https://www.python.org/downloads/
 
 Add Python to PATH : 
 
-Open windows - Type "Edit the system environtment variables" - click environtment variables - 
-Double Click on PATH on user variables - NEW - Paste this C:\Users\akbar\AppData\Local\Programs\Python\Python311\Scripts
+Open windows - Type "Edit the system environtment variables" - click environtment variables - Double Click on PATH on user variables - NEW - Paste this C:\Users\akbar\AppData\Local\Programs\Python\Python311\Scripts
 
 or you can see this following link : https://dqlab.id/cara-install-python-di-windows-dan-mengatur-path
 
@@ -18,6 +18,7 @@ or you can see this following link : https://dqlab.id/cara-install-python-di-win
 Installing PIP
 
 *if you already have pip, skip this step
+
 Install PIP : https://www.geeksforgeeks.org/how-to-install-pip-on-windows/
 
 Install Library
@@ -25,10 +26,15 @@ Install Library
 Open CMD - type this following text
 
 pip install selenium
+
 pip install webdriver_manager
+
 pip isntall pandas
+
 pip install loging
+
 pip install xlrd
+
 pip install openpyxl
 
 Approach
